@@ -1,0 +1,23 @@
+LISTE DES INJONCTIONS - HYPODOR J. LE PELERIN
+(Maximum 3 mots par ordre - Chroniques Oubliées)
+
+--- COMBAT ET CONTROLE ---
+Lâche ton arme      : Pour désarmer un ennemi dangereux immédiatement.
+Enfuis-toi loin     : Pour écarter une menace du champ de bataille pour un tour.
+Reste immobile      : Pour bloquer un fuyard ou faciliter une attaque alliée.
+Frappe ton allié    : Pour semer le chaos et forcer l'ennemi à se retourner contre les siens.
+
+--- INFILTRATION ET DISCRETION ---
+Ignore-moi          : Pour passer inaperçu ou s'extraire d'une situation tendue (plus efficace qu'une simple affirmation).
+Oublie ma venue     : Pour effacer ton passage de la mémoire d'un garde après une infiltration.
+Écarte-toi          : Pour libérer un passage ou une porte sans violence.
+Éteins cette torche : Utilise ta vision nocturne de demi-elfe pour plonger l'ennemi dans le noir total (malus pour eux, pas pour toi).
+
+--- ENQUETE ET SOCIAL ---
+Cesse de mentir     : Pour percer les secrets, notamment sur le passé de ta mère Cylthaea.
+Donne la clé        : Pour ouvrir des portes ou des coffres sans avoir besoin de crocheter.
+Révèle ton chef     : Pour identifier la structure de commandement adverse ou trouver le coupable.
+
+--- CUPIDITE ET NEGOCIATION ---
+Donne ta bourse     : L'ordre ultime pour satisfaire ton trait de caractère "Cupide".
+Paye ton dû         : Pour s'assurer que tes services de mercenaire sont rémunérés à leur juste valeur.
