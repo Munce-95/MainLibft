@@ -1,217 +1,126 @@
-Les Maîtres de l'Orchestre (Épique & Symphonique)
-
-    The Legend of Zelda: Ocarina of Time — Zelda’s Lullaby / Hyrule Field (Koji Kondo)
-
-    The Elder Scrolls V: Skyrim — Dragonborn (Jeremy Soule)
-
-    God of War (2018) — God of War Main Theme (Bear McCreary)
-
-    Final Fantasy VII — One-Winged Angel / Aerith's Theme (Nobuo Uematsu)
-
-    Elden Ring — Elden Ring Main Theme (Tsukasa Saitoh)
-
-    The Last of Us — The Last of Us (Main Theme) (Gustavo Santaolalla)
-
-    Shadow of the Colossus — The Opened Way (Kow Otani)
-
-    Bloodborne — The First Hunter (Tsukasa Saitoh / Ryan Amon)
-
-    Halo: Combat Evolved — Halo Theme (Martin O'Donnell / Michael Salvatori)
-
-    Uncharted 2: Among Thieves — Nate’s Theme (Greg Edmonson)
-
-    Genshin Impact — Main Theme (Yu-Peng Chen / HOYO-MiX)
-
-    The Witcher 3: Wild Hunt — Hunt or Be Hunted / Silver for Monsters (Marcin Przybyłowicz)
-
-    Dragon Age: Inquisition — Main Theme (Trevor Morris)
-
-    Horizon Zero Dawn — Aloft (Joris de Man)
-
-    Starfield — Main Theme (Inon Zur)
-
-    Civilization IV — Baba Yetu (Christopher Tin)
-
-    Super Mario Galaxy — Gusty Garden Galaxy (Mahito Yokota)
-
-    Ori and the Blind Forest — Light of Nibel (Gareth Coker)
-
-    Journey — I Was Born for This (Austin Wintory)
-
-    Baldur's Gate 3 — Main Theme Part 1 (Borislav Slavov)
-
-Électronique, Synthé & Cyberpunk
-
-    Cyberpunk 2077 — V (Marcin Przybyłowicz / P.T. Adamczyk)
-
-    Doom (2016) — BFG Division / Rip & Tear (Mick Gordon)
-
-    Mass Effect 2 — Suicide Mission (Jack Wall)
-
-    Portal 2 — Want You Gone (Jonathan Coulton)
-
-    Deus Ex: Human Revolution — Icarus (Michael McCann)
-
-    Furi — Make This Right (The Toxic Avenger)
-
-    Hotline Miami — Hydrogen (M|O|O|N)
-
-    Mirror's Edge — Still Alive (Lisa Miskovsky / Solar Fields)
-
-    Katana ZERO — Sneaky Driver (LudoWic / Bill Kiley)
-
-    Hyper Light Drifter — Vignette: Panacea (Disasterpeace)
-
-Le Charme du Pixel (Chiptune & 8/16-bit)
-
-    Super Mario Bros. — Ground Theme (Koji Kondo)
-
-    Tetris — Korobeiniki (Hirokazu Tanaka)
-
-    The Legend of Zelda — Overworld Theme (Koji Kondo)
-
-    Mega Man 2 — Dr. Wily's Castle (Takashi Tateishi)
-
-    Castlevania — Vampire Killer (Kinuyo Yamashita)
-
-    Street Fighter II — Guile’s Theme (Yoko Shimomura)
-
-    Sonic the Hedgehog — Green Hill Zone (Masato Nakamura)
-
-    Pokémon Rouge/Bleu — Main Theme (Junichi Masuda)
-
-    Donkey Kong Country — Aquatic Ambiance (David Wise)
-
-    Chrono Trigger — Wind Scene / Frog's Theme (Yasunori Mitsuda)
-
-Ambiance & Indépendants (Le son de l'émotion)
-
-    Undertale — Megalovania / Hopes and Dreams (Toby Fox)
-
-    Hollow Knight — Enter Hallownest (Christopher Larkin)
-
-    Stardew Valley — Stardew Valley Overture (ConcernedApe)
-
-    Celeste — First Steps / Resurrection (Lena Raine)
-
-    Hades — In the Blood (Darren Korb)
-
-    Outer Wilds — Main Title (Andrew Prahlow)
-
-    Cuphead — Inkwell Isle One (Kristofer Maddigan)
-
-    Transistor — We All Become (Darren Korb / Ashley Barrett)
-
-    Disco Elysium — Whirling-In-Rags (British Sea Power)
-
-    Omori — My Time (Bo En)
-
-Rock, Pop & Radio In-Game
-
-    Grand Theft Auto: Vice City — Self Control (Laura Branigan / Radio In-game)
-
-    Tony Hawk's Pro Skater 2 — Superman (Goldfinger)
-
-    Fallout 3 — I Don't Want to Set the World on Fire (The Ink Spots)
-
-    Red Dead Redemption 2 — That's the Way It Is (Daniel Lanois)
-
-    Life is Strange — Obstacles (Syd Matters)
-
-    Metal Gear Solid 3 — Snake Eater (Cynthia Harrell)
-
-    Devil May Cry 5 — Bury the Light (Casey Edwards)
-
-    Guilty Gear Strive — Smell of the Game (Daisuke Ishiwatari)
-
-    Death Stranding — Don't Be So Serious (Low Roar)
-
-    Brütal Legend — The Hellion / Electric Eye (Judas Priest)
-
-Jazz, Funk & Groove
-
-    Persona 5 — Last Surprise / Rivers in the Desert (Shoji Meguro)
-
-    Mario Kart 8 — Dolphin Shoals (Shiho Fujii)
-
-    Grim Fandango — Casino Calavera (Peter McConnell)
-
-    SimCity 3000 — Magic City (Jerry Martin)
-
-    Team Fortress 2 — Main Theme (Mike Morasky)
-
-    Skullgirls — The Legend of the Skullgirl (Michiru Yamane)
-
-    Ace Attorney — Cornered (Masakazu Sugimori)
-
-    Katamari Damacy — Katamari on the Rocks (Yuu Miyake)
-
-    Sonic Mania — Lights, Camera, Action! (Studiopolis) (Tee Lopes)
-
-    Gran Turismo — Moon over the Castle (Masahiro Andoh)
-
-Horreur & Tension
-
-    Silent Hill 2 — Theme of Laura (Akira Yamaoka)
-
-    Resident Evil 2 (Remake) — Looming Dread (Zhenlan Kang)
-
-    Amnesia: The Dark Descent — Main Theme (Mikko Tarmia)
-
-    Dead Space — Welcome Aboard the Ishimura (Jason Graves)
-
-    BioShock — The Ocean on His Shoulders (Garry Schyman)
-
-    Little Nightmares — Six's Theme (Tobias Lilja)
-
-    Bloodborne — Ludwig, the Holy Blade (Nobuyoshi Suzuki)
-
-    Left 4 Dead — Main Theme (Mike Morasky)
-
-    Alan Wake 2 — Herald of Darkness (Old Gods of Asgard)
-
-    Five Nights at Freddy's — Les Toreadors (Bizet / 8-bit version)
-
-Les Expériences Uniques
-
-    NieR: Automata — Weight of the World / Amusement Park (Keiichi Okabe)
-
-    Minecraft — Sweden / Wet Hands (C418)
-
-    Kingdom Hearts — Simple and Clean / Dearly Beloved (Yoko Shimomura)
-
-    League of Legends — Awaken / Legends Never Die (Riot Music Team)
-
-    Genshin Impact — Rex Incognito (Zhongli Theme) (Yu-Peng Chen)
-
-    Shadowrun: Dragonfall — Duels (Jon Everist)
-
-    Destiny 2 — Journey (Michael Salvatori)
-
-    Spiritfarer — Meteor Shower (Max LL)
-
-    Animal Crossing: New Horizons — 5 PM Theme (Kazumi Totaka)
-
-    Tetris Effect — Connected (Yours Forever) (Hydelic)
-
-Nostalgie & Classiques PC/Arcade
-
-    World of Warcraft — Legends of Azeroth (Jason Hayes)
-
-    StarCraft — Terran Theme 1 (Glenn Stafford)
-
-    Diablo II — Tristram (Matt Uelmen)
-
-    Monkey Island — Main Theme (Michael Land)
-
-    Deus Ex (2000) — Main Title (Alexander Brandon)
-
-    Command & Conquer: Red Alert — Hell March (Frank Klepacki)
-
-    Quake — Main Theme (Trent Reznor)
-
-    Age of Empires II — Porkindly / Wololo (Stephen Rippy)
-
-    The Sims — Buy Mode 1 (Jerry Martin)
-
-    Pac-Man — Main Theme (Intro) (Toshio Kai)
+LES MAITRES DE L'ORCHESTRE (EPIQUE & SYMPHONIQUE)
+
+01. The Legend of Zelda: Ocarina of Time — Zelda’s Lullaby / Hyrule Field (Koji Kondo)
+02. The Elder Scrolls V: Skyrim — Dragonborn (Jeremy Soule)
+03. God of War (2018) — God of War Main Theme (Bear McCreary)
+04. Final Fantasy VII — One-Winged Angel / Aerith's Theme (Nobuo Uematsu)
+05. Elden Ring — Elden Ring Main Theme (Tsukasa Saitoh)
+06. The Last of Us — The Last of Us (Main Theme) (Gustavo Santaolalla)
+07. Shadow of the Colossus — The Opened Way (Kow Otani)
+08. Bloodborne — The First Hunter (Tsukasa Saitoh / Ryan Amon)
+09. Halo: Combat Evolved — Halo Theme (Martin O'Donnell / Michael Salvatori)
+10. Uncharted 2: Among Thieves — Nate’s Theme (Greg Edmonson)
+11. Genshin Impact — Main Theme (Yu-Peng Chen / HOYO-MiX)
+12. The Witcher 3: Wild Hunt — Hunt or Be Hunted / Silver for Monsters (Marcin Przybyłowicz)
+13. Dragon Age: Inquisition — Main Theme (Trevor Morris)
+14. Horizon Zero Dawn — Aloft (Joris de Man)
+15. Starfield — Main Theme (Inon Zur)
+16. Civilization IV — Baba Yetu (Christopher Tin)
+17. Super Mario Galaxy — Gusty Garden Galaxy (Mahito Yokota)
+18. Ori and the Blind Forest — Light of Nibel (Gareth Coker)
+19. Journey — I Was Born for This (Austin Wintory)
+20. Baldur's Gate 3 — Main Theme Part 1 (Borislav Slavov)
+
+ELECTRONIQUE, SYNTHE & CYBERPUNK
+
+21. Cyberpunk 2077 — V (Marcin Przybyłowicz / P.T. Adamczyk)
+22. Doom (2016) — BFG Division / Rip & Tear (Mick Gordon)
+23. Mass Effect 2 — Suicide Mission (Jack Wall)
+24. Portal 2 — Want You Gone (Jonathan Coulton)
+25. Deus Ex: Human Revolution — Icarus (Michael McCann)
+26. Furi — Make This Right (The Toxic Avenger)
+27. Hotline Miami — Hydrogen (M|O|O|N)
+28. Mirror's Edge — Still Alive (Lisa Miskovsky / Solar Fields)
+29. Katana ZERO — Sneaky Driver (LudoWic / Bill Kiley)
+30. Hyper Light Drifter — Vignette: Panacea (Disasterpeace)
+
+LE CHARME DU PIXEL (CHIPTUNE & 8/16-BIT)
+
+31. Super Mario Bros. — Ground Theme (Koji Kondo)
+32. Tetris — Korobeiniki (Hirokazu Tanaka)
+33. The Legend of Zelda — Overworld Theme (Koji Kondo)
+34. Mega Man 2 — Dr. Wily's Castle (Takashi Tateishi)
+35. Castlevania — Vampire Killer (Kinuyo Yamashita)
+36. Street Fighter II — Guile’s Theme (Yoko Shimomura)
+37. Sonic the Hedgehog — Green Hill Zone (Masato Nakamura)
+38. Pokémon Rouge/Bleu — Main Theme (Junichi Masuda)
+39. Donkey Kong Country — Aquatic Ambiance (David Wise)
+40. Chrono Trigger — Wind Scene / Frog's Theme (Yasunori Mitsuda)
+
+AMBIANCE & INDEPENDANTS (LE SON DE L'EMOTION)
+
+41. Undertale — Megalovania / Hopes and Dreams (Toby Fox)
+42. Hollow Knight — Enter Hallownest (Christopher Larkin)
+43. Stardew Valley — Stardew Valley Overture (ConcernedApe)
+44. Celeste — First Steps / Resurrection (Lena Raine)
+45. Hades — In the Blood (Darren Korb)
+46. Outer Wilds — Main Title (Andrew Prahlow)
+47. Cuphead — Inkwell Isle One (Kristofer Maddigan)
+48. Transistor — We All Become (Darren Korb / Ashley Barrett)
+49. Disco Elysium — Whirling-In-Rags (British Sea Power)
+50. Omori — My Time (Bo En)
+
+ROCK, POP & RADIO IN-GAME
+
+51. Grand Theft Auto: Vice City — Self Control (Laura Branigan / Radio In-game)
+52. Tony Hawk's Pro Skater 2 — Superman (Goldfinger)
+53. Fallout 3 — I Don't Want to Set the World on Fire (The Ink Spots)
+54. Red Dead Redemption 2 — That's the Way It Is (Daniel Lanois)
+55. Life is Strange — Obstacles (Syd Matters)
+56. Metal Gear Solid 3 — Snake Eater (Cynthia Harrell)
+57. Devil May Cry 5 — Bury the Light (Casey Edwards)
+58. Guilty Gear Strive — Smell of the Game (Daisuke Ishiwatari)
+59. Death Stranding — Don't Be So Serious (Low Roar)
+60. Brütal Legend — The Hellion / Electric Eye (Judas Priest)
+
+JAZZ, FUNK & GROOVE
+
+61. Persona 5 — Last Surprise / Rivers in the Desert (Shoji Meguro)
+62. Mario Kart 8 — Dolphin Shoals (Shiho Fujii)
+63. Grim Fandango — Casino Calavera (Peter McConnell)
+64. SimCity 3000 — Magic City (Jerry Martin)
+65. Team Fortress 2 — Main Theme (Mike Morasky)
+66. Skullgirls — The Legend of the Skullgirl (Michiru Yamane)
+67. Ace Attorney — Cornered (Masakazu Sugimori)
+68. Katamari Damacy — Katamari on the Rocks (Yuu Miyake)
+69. Sonic Mania — Lights, Camera, Action! (Studiopolis) (Tee Lopes)
+70. Gran Turismo — Moon over the Castle (Masahiro Andoh)
+
+HORREUR & TENSION
+
+71. Silent Hill 2 — Theme of Laura (Akira Yamaoka)
+72. Resident Evil 2 (Remake) — Looming Dread (Zhenlan Kang)
+73. Amnesia: The Dark Descent — Main Theme (Mikko Tarmia)
+74. Dead Space — Welcome Aboard the Ishimura (Jason Graves)
+75. BioShock — The Ocean on His Shoulders (Garry Schyman)
+76. Little Nightmares — Six's Theme (Tobias Lilja)
+77. Bloodborne — Ludwig, the Holy Blade (Nobuyoshi Suzuki)
+78. Left 4 Dead — Main Theme (Mike Morasky)
+79. Alan Wake 2 — Herald of Darkness (Old Gods of Asgard)
+80. Five Nights at Freddy's — Les Toreadors (Bizet / 8-bit version)
+
+LES EXPERIENCES UNIQUES
+
+81. NieR: Automata — Weight of the World / Amusement Park (Keiichi Okabe)
+82. Minecraft — Sweden / Wet Hands (C418)
+83. Kingdom Hearts — Simple and Clean / Dearly Beloved (Yoko Shimomura)
+84. League of Legends — Awaken / Legends Never Die (Riot Music Team)
+85. Genshin Impact — Rex Incognito (Zhongli Theme) (Yu-Peng Chen)
+86. Shadowrun: Dragonfall — Duels (Jon Everist)
+87. Destiny 2 — Journey (Michael Salvatori)
+88. Spiritfarer — Meteor Shower (Max LL)
+89. Animal Crossing: New Horizons — 5 PM Theme (Kazumi Totaka)
+90. Tetris Effect — Connected (Yours Forever) (Hydelic)
+
+NOSTALGIE & CLASSIQUES PC/ARCADE
+
+91. World of Warcraft — Legends of Azeroth (Jason Hayes)
+92. StarCraft — Terran Theme 1 (Glenn Stafford)
+93. Diablo II — Tristram (Matt Uelmen)
+94. Monkey Island — Main Theme (Michael Land)
+95. Deus Ex (2000) — Main Title (Alexander Brandon)
+96. Command & Conquer: Red Alert — Hell March (Frank Klepacki)
+97. Quake — Main Theme (Trent Reznor)
+98. Age of Empires II — Porkindly / Wololo (Stephen Rippy)
+99. The Sims — Buy Mode 1 (Jerry Martin)
+100. Pac-Man — Main Theme (Intro) (Toshio Kai)

@@ -1,809 +1,411 @@
-100 Chansons des Années 60-70 (L'Âge d'Or)
-
-    The Beatles — Yesterday
-
-    The Rolling Stones — (I Can't Get No) Satisfaction
-
-    Aretha Franklin — Respect
-
-    Bob Dylan — Like a Rolling Stone
-
-    Led Zeppelin — Stairway to Heaven
-
-    Pink Floyd — Wish You Were Here
-
-    Queen — Bohemian Rhapsody
-
-    ABBA — Dancing Queen
-
-    David Bowie — Life on Mars?
-
-    Bee Gees — Stayin' Alive
-
-    Marvin Gaye — What's Going On
-
-    Jimi Hendrix — Purple Haze
-
-    The Doors — Light My Fire
-
-    Simon & Garfunkel — Bridge Over Troubled Water
-
-    John Lennon — Imagine
-
-    Édith Piaf — Non, je ne regrette rien
-
-    Johnny Hallyday — Que je t'aime
-
-    Claude François — Comme d'habitude
-
-    Michel Polnareff — Lettre à France
-
-    Serge Gainsbourg — Je t'aime… moi non plus
-
-    The Beach Boys — Good Vibrations
-
-    The Kinks — You Really Got Me
-
-    The Who — My Generation
-
-    Creedence Clearwater Revival — Fortunate Son
-
-    The Jackson 5 — I Want You Back
-
-    Stevie Wonder — Superstition
-
-    Elton John — Rocket Man
-
-    Fleetwood Mac — Dreams
-
-    The Eagles — Hotel California
-
-    Donna Summer — I Feel Love
-
-    The Clash — London Calling
-
-    Sex Pistols — Anarchy in the U.K.
-
-    Nino Ferrer — Le Sud
-
-    Françoise Hardy — Tous les garçons et les filles
-
-    France Gall — Poupée de cire, poupée de son
-
-    Jacques Brel — Ne me quitte pas
-
-    Georges Brassens — Les Copains d'abord
-
-    Billie Holiday — Strange Fruit
-
-    Elvis Presley — Suspicious Minds
-
-    Frank Sinatra — My Way
-
-    Otis Redding — (Sittin' On) The Dock of the Bay
-
-    The Mamas & the Papas — California Dreamin'
-
-    Buffalo Springfield — For What It's Worth
-
-    Janis Joplin — Piece of My Heart
-
-    Deep Purple — Smoke on the Water
-
-    Black Sabbath — Paranoid
-
-    AC/DC — Highway to Hell
-
-    Bob Marley — No Woman, No Cry
-
-    Boney M. — Daddy Cool
-
-    Village People — Y.M.C.A.
-
-    Earth, Wind & Fire — September
-
-    Chic — Le Freak
-
-    Ike & Tina Turner — Proud Mary
-
-    The Temptations — My Girl
-
-    Dusty Springfield — Son of a Preacher Man
-
-    Nancy Sinatra — These Boots Are Made for Walkin'
-
-    Dalida — Paroles... Paroles...
-
-    Joe Dassin — L'Été indien
-
-    Renaud — Laisse béton
-
-    Alain Souchon — Allô maman bobo
-
-    Véronique Sanson — Besoin de personne
-
-    Michel Berger — La Groupie du pianiste
-
-    Bill Withers — Ain't No Sunshine
-
-    Al Green — Let's Stay Together
-
-    Roberta Flack — Killing Me Softly with His Song
-
-    Gloria Gaynor — I Will Survive
-
-    The Stooges — I Wanna Be Your Dog
-
-    Ramones — Blitzkrieg Bop
-
-    Patti Smith — Because the Night
-
-    Blondie — Heart of Glass
-
-    The Police — Roxanne
-
-    Dire Straits — Sultans of Swing
-
-    Lynyrd Skynyrd — Sweet Home Alabama
-
-    Bruce Springsteen — Born to Run
-
-    Neil Young — Heart of Gold
-
-    Cat Stevens — Wild World
-
-    Joni Mitchell — Big Yellow Taxi
-
-    Charles Aznavour — La Bohème
-
-    Barbara — L'Aigle noir
-
-    Léo Ferré — Avec le temps
-
-    Sly & The Family Stone — Everyday People
-
-    Santana — Black Magic Woman
-
-    Joy Division — Love Will Tear Us Apart (1979)
-
-    The Cure — Boys Don't Cry (1979)
-
-    T. Rex — Get It On
-
-    Lou Reed — Walk on the Wild Side
-
-    Iggy Pop — The Passenger
-
-    The Velvet Underground — Sunday Morning
-
-    Jefferson Airplane — White Rabbit
-
-    The Animals — The House of the Rising Sun
-
-    Procol Harum — A Whiter Shade of Pale
-
-    James Brown — I Got You (I Feel Good)
-
-    Rod Stewart — Maggie May
-
-    Carly Simon — You're So Vain
-
-    Harry Nilsson — Without You
-
-    Kate Bush — Wuthering Heights
-
-    Meat Loaf — Bat Out of Hell
-
-    Boston — More Than a Feeling
-
-    Kansas — Dust in the Wind
-
-    Don McLean — American Pie
-
-100 Chansons des Années 80-90 (L'Ère MTV et Grunge)
-
-    Michael Jackson — Billie Jean
-
-    Madonna — Like a Virgin
-
-    Prince — When Doves Cry
-
-    U2 — With or Without You
-
-    Nirvana — Smells Like Teen Spirit
-
-    Whitney Houston — I Will Always Love You
-
-    R.E.M. — Losing My Religion
-
-    Guns N' Roses — Sweet Child O' Mine
-
-    Metallica — Enter Sandman
-
-    George Michael — Careless Whisper
-
-    Eurythmics — Sweet Dreams (Are Made of This)
-
-    Cyndi Lauper — Girls Just Want to Have Fun
-
-    Bon Jovi — Livin' on a Prayer
-
-    The Smiths — There Is a Light That Never Goes Out
-
-    Depeche Mode — Enjoy the Silence
-
-    Daniel Balavoine — L'Aziza
-
-    Jean-Jacques Goldman — Je te donne
-
-    Mylène Farmer — Désenchantée
-
-    Indochine — L'Aventurier
-
-    Téléphone — Ça (c'est vraiment toi)
-
-    The Police — Every Breath You Take
-
-    Phil Collins — In the Air Tonight
-
-    Tears for Fears — Everybody Wants to Rule the World
-
-    A-ha — Take on Me
-
-    Journey — Don't Stop Believin'
-
-    Survivor — Eye of the Tiger
-
-    Toto — Africa
-
-    Rick Astley — Never Gonna Give You Up
-
-    Soft Cell — Tainted Love
-
-    Simple Minds — Don't You (Forget About Me)
-
-    Culture Club — Karma Chameleon
-
-    Spandau Ballet — True
-
-    Céline Dion — Pour que tu m'aimes encore
-
-    IAM — Demain, c'est loin
-
-    NTM — Laisse pas traîner ton fils
-
-    MC Solaar — Caroline
-
-    Oasis — Wonderwall
-
-    Blur — Song 2
-
-    The Verve — Bitter Sweet Symphony
-
-    Radiohead — Creep
-
-    Red Hot Chili Peppers — Under the Bridge
-
-    Pearl Jam — Alive
-
-    Soundgarden — Black Hole Sun
-
-    No Doubt — Don't Speak
-
-    The Cranberries — Zombie
-
-    Alanis Morissette — Ironic
-
-    Sinéad O'Connor — Nothing Compares 2 U
-
-    Spice Girls — Wannabe
-
-    Backstreet Boys — I Want It That Way
-
-    Britney Spears — ...Baby One More Time
-
-    Mariah Carey — All I Want for Christmas Is You
-
-    Lauryn Hill — Doo Wop (That Thing)
-
-    TLC — No Scrubs
-
-    Coolio — Gangsta's Paradise
-
-    2Pac — California Love
-
-    The Notorious B.I.G. — Juicy
-
-    Dr. Dre ft. Snoop Dogg — Still D.R.E.
-
-    Eminem — My Name Is
-
-    Daft Punk — Around the World
-
-    The Prodigy — Firestarter
-
-    Jamiroquai — Virtual Insanity
-
-    Massive Attack — Teardrop
-
-    Portishead — Glory Box
-
-    Moby — Porcelain
-
-    Roxette — It Must Have Been Love
-
-    Bryan Adams — (Everything I Do) I Do It for You
-
-    Vanessa Paradis — Joe le taxi
-
-    Les Rita Mitsouko — Marcia Baïla
-
-    Niagara — L'amour à la plage
-
-    Patricia Kaas — Mon mec à moi
-
-    Francis Cabrel — Je l'aime à mourir
-
-    Alain Bashung — Vertige de l'amour
-
-    Zazie — Zen
-
-    Louise Attaque — Je t'emmène au vent
-
-    Manau — La Tribu de Dana
-
-    Ricky Martin — Livin' la Vida Loca
-
-    Cher — Believe
-
-    Aqua — Barbie Girl
-
-    Natalie Imbruglia — Torn
-
-    Fool's Garden — Lemon Tree
-
-    4 Non Blondes — What's Up?
-
-    Seal — Kiss from a Rose
-
-    Lenny Kravitz — Are You Gonna Go My Way
-
-    Beastie Boys — Sabotage
-
-    Rage Against the Machine — Killing in the Name
-
-    The Offspring — Self Esteem
-
-    Green Day — Basket Case
-
-    Foo Fighters — Everlong
-
-    The Smashing Pumpkins — 1979
-
-    Jeff Buckley — Hallelujah
-
-    Tracy Chapman — Fast Car
-
-    Bonnie Tyler — Total Eclipse of the Heart
-
-    Tina Turner — What's Love Got to Do with It
-
-    Lionel Richie — All Night Long
-
-    Wham! — Wake Me Up Before You Go-Go
-
-    New Order — Blue Monday
-
-    Pet Shop Boys — West End Girls
-
-    Talking Heads — Once in a Lifetime
-
-    Run-D.M.C. — It's Tricky
-
-    Public Enemy — Fight the Power
-
-100 Chansons des Années 2000-2010 (L'Ère du Numérique)
-
-    Beyoncé — Crazy in Love
-
-    Eminem — Lose Yourself
-
-    Amy Winehouse — Back to Black
-
-    Lady Gaga — Poker Face
-
-    Rihanna — Umbrella
-
-    Coldplay — Viva la Vida
-
-    The White Stripes — Seven Nation Army
-
-    Daft Punk — Get Lucky
-
-    Pharrell Williams — Happy
-
-    Adele — Rolling in the Deep
-
-    Justin Timberlake — Cry Me a River
-
-    Britney Spears — Toxic
-
-    Shakira — Whenever, Wherever
-
-    OutKast — Hey Ya!
-
-    Jay-Z ft. Alicia Keys — Empire State of Mind
-
-    Kanye West — Stronger
-
-    Linkin Park — In the End
-
-    The Killers — Mr. Brightside
-
-    Arctic Monkeys — Do I Wanna Know?
-
-    Radiohead — Everything in Its Right Place
-
-    Gorillaz — Feel Good Inc.
-
-    MGMT — Kids
-
-    Foster the People — Pumped Up Kicks
-
-    Gotye ft. Kimbra — Somebody That I Used to Know
-
-    Sia — Chandelier
-
-    Lorde — Royals
-
-    Ed Sheeran — Shape of You
-
-    Bruno Mars — Uptown Funk (ft. Mark Ronson)
-
-    Taylor Swift — Shake It Off
-
-    Katy Perry — Firework
-
-    Diam's — La Boulette
-
-    Booba — Numéro 10
-
-    Rohff — Qui est l'exemple ?
-
-    Stromae — Alors on danse
-
-    Stromae — Papaoutai
-
-    Maître Gims — Bella
-
-    Indila — Dernière danse
-
-    Christine and the Queens — Saint Claude
-
-    PNL — Le monde ou rien
-
-    Orelsan — La Terre est ronde
-
-    Jul — Tchikita
-
-    Niska — Réseaux
-
-    Aya Nakamura — Djadja
-
-    Angèle — Tout oublier
-
-    Justice — D.A.N.C.E.
-
-    M83 — Midnight City
-
-    Phoenix — 1901
-
-    David Guetta ft. Kelly Rowland — When Love Takes Over
-
-    Avicii — Wake Me Up
-
-    Calvin Harris — Feel So Close
-
-    Black Eyed Peas — I Gotta Feeling
-
-    LMFAO — Party Rock Anthem
-
-    Psy — Gangnam Style
-
-    Luis Fonsi ft. Daddy Yankee — Despacito
-
-    Camila Cabello — Havana
-
-    Drake — Hotline Bling
-
-    The Weeknd — Can't Feel My Face
-
-    Kendrick Lamar — Humble
-
-    Childish Gambino — This Is America
-
-    Billie Eilish — Bad Guy
-
-    Alicia Keys — If I Ain't Got You
-
-    Norah Jones — Don't Know Why
-
-    James Blunt — You're Beautiful
-
-    Mika — Grace Kelly
-
-    Lily Allen — Smile
-
-    Florence + The Machine — Dog Days Are Over
-
-    Mumford & Sons — Little Lion Man
-
-    The Lumineers — Ho Hey
-
-    Lana Del Rey — Video Games
-
-    Frank Ocean — Thinkin Bout You
-
-    P!nk — Get the Party Started
-
-    Christina Aguilera — Beautiful
-
-    Kelly Clarkson — Since U Been Gone
-
-    Avril Lavigne — Complicated
-
-    Evanescence — Bring Me to Life
-
-    Green Day — American Idiot
-
-    Fall Out Boy — Sugar, We're Goin Down
-
-    Panic! At The Disco — I Write Sins Not Tragedies
-
-    My Chemical Romance — Welcome to the Black Parade
-
-    Muse — Supermassive Black Hole
-
-    Maroon 5 — This Love
-
-    John Legend — All of Me
-
-    Miley Cyrus — Wrecking Ball
-
-    Justin Bieber — Sorry
-
-    One Direction — What Makes You Beautiful
-
-    Imagine Dragons — Radioactive
-
-    Twenty One Pilots — Stressed Out
-
-    Hozier — Take Me to Church
-
-    Sam Smith — Stay with Me
-
-    Snoop Dogg ft. Pharrell — Drop It Like It's Hot
-
-    50 Cent — In Da Club
-
-    Nelly — Hot in Herre
-
-    Flo Rida — Low
-
-    Kesha — TiK ToK
-
-    Lady Antebellum — Need You Now
-
-    Gnarls Barkley — Crazy
-
-    Kings of Leon — Use Somebody
-
-    Vanessa Carlton — A Thousand Miles
-
-    The Fray — How to Save a Life
-
-    Snow Patrol — Chasing Cars
-
-100 Chansons des Années 2020+ (Le Son d'Aujourd'hui)
-
-Note : Cette liste couvre de 2020 jusqu'à aujourd'hui en 2026.
-
-    The Weeknd — Blinding Lights
-
-    Dua Lipa — Levitating
-
-    Olivia Rodrigo — Drivers License
-
-    Harry Styles — As It Was
-
-    Taylor Swift — Anti-Hero
-
-    Miley Cyrus — Flowers
-
-    SZA — Kill Bill
-
-    Billie Eilish — Happier Than Ever
-
-    Doja Cat — Say So
-
-    Lil Nas X — Montero (Call Me By Your Name)
-
-    Bad Bunny — Tití Me Preguntó
-
-    Rosalía — Despechá
-
-    Glass Animals — Heat Waves
-
-    The Kid LAROI ft. Justin Bieber — Stay
-
-    Sam Smith & Kim Petras — Unholy
-
-    Ice Spice — Munch (Feelin' U)
-
-    PinkPantheress — Boy's a Liar Pt. 2
-
-    Steve Lacy — Bad Habit
-
-    Tyla — Water
-
-    Jack Harlow — Lovin On Me
-
-    Orelsan — L'Odeur de l'essence
-
-    Ninho — Jefe
-
-    Gazo — Die
-
-    SDM — Bolide Allemand
-
-    Tiakola — Gasolina
-
-    Ziak — Galerie
-
-    Werenoi — Laboratoire
-
-    Hamza — Make Up
-
-    Damso — Morose
-
-    SCH — Fade Up
-
-    Clara Luciani — Le Reste
-
-    Juliette Armanet — Le Dernier Jour du Disco
-
-    Angèle — Bruxelles je t'aime
-
-    Stromae — L'Enfer
-
-    Pomme — Les Failles
-
-    Zaho de Sagazan — La Symphonie des éclairs
-
-    Lomepal — Decrescendo
-
-    Disiz — Rencontre
-
-    Pierre de Maere — Un jour je marierai un ange
-
-    Santa — Popcorn Salé
-
-    NewJeans — Hype Boy
-
-    BLACKPINK — Pink Venom
-
-    BTS — Dynamite
-
-    Jung Kook — Seven
-
-    Fifty Fifty — Cupid
-
-    Peso Pluma — Ella Baila Sola
-
-    Karol G — Provenza
-
-    Central Cee — Doja
-
-    Dave ft. Central Cee — Sprinter
-
-    Rayy — Escapism.
-
-    Fred again.. — Delilah (pull me out of this)
-
-    Peggy Gou — (It Goes Like) Nanana
-
-    Romy — Enjoy Your Life
-
-    Troye Sivan — Rush
-
-    Boygenius — Not Strong Enough
-
-    Lana Del Rey — A&W
-
-    Mitski — My Love Mine All Mine
-
-    Hozier — Eat Your Young
-
-    Noah Kahan — Stick Season
-
-    Zach Bryan — I Remember Everything
-
-    Luke Combs — Fast Car (Cover)
-
-    Beyoncé — Break My Soul
-
-    Beyoncé — Texas Hold 'Em
-
-    Kendrick Lamar — Not Like Us
-
-    Drake — First Person Shooter
-
-    Travis Scott — FE!N
-
-    Metro Boomin ft. Future — Like That
-
-    Gunna — fukumean
-
-    Tate McRae — greedy
-
-    Sabrina Carpenter — Espresso
-
-    Chappell Roan — Good Luck, Babe!
-
-    Charli XCX — Von Dutch
-
-    Billie Eilish — Lunch
-
-    Ariana Grande — we can't be friends (wait for your love)
-
-    Dua Lipa — Houdini
-
-    Jain — The Fool
-
-    Indochine — Nos Célébrations
-
-    Mylène Farmer — À tout jamais
-
-    Vianney ft. Ed Sheeran — Call on Me
-
-    Louane — Secret
-
-    Soso Maness — Petrouchka
-
-    Jungeli — Petit Génie
-
-    Heuss L'Enfoiré ft. Jul — Moulaga
-
-    PLK — Demain
-
-    Dinos — Helsinki
-
-    Rauw Alejandro — Todo de Ti
-
-    Bizarrap & Shakira — Music Sessions, Vol. 53
-
-    Ayra Starr — Rush
-
-    Rema — Calm Down
-
-    Burna Boy — Last Last
-
-    Victoria Monét — On My Mama
-
-    Coco Jones — ICU
-
-    Renée Rapp — Snow Angel
-
-    Beabadoobee — Glue Song
-
-    Stephen Sanchez — Until I Found You
-
-    JVKE — Golden Hour
-
-    Laufey — From The Start
-
-    Teddy Swims — Lose Control
-
-    Benson Boone — Beautiful Things
-
-    Artemas — i like the way you kiss me
+100 CHANSONS DES ANNEES 60-70 (L'AGE D'OR)
+
+01. The Beatles — Yesterday
+02. The Rolling Stones — (I Can't Get No) Satisfaction
+03. Aretha Franklin — Respect
+04. Bob Dylan — Like a Rolling Stone
+05. Led Zeppelin — Stairway to Heaven
+06. Pink Floyd — Wish You Were Here
+07. Queen — Bohemian Rhapsody
+08. ABBA — Dancing Queen
+09. David Bowie — Life on Mars?
+10. Bee Gees — Stayin' Alive
+11. Marvin Gaye — What's Going On
+12. Jimi Hendrix — Purple Haze
+13. The Doors — Light My Fire
+14. Simon & Garfunkel — Bridge Over Troubled Water
+15. John Lennon — Imagine
+16. Edith Piaf — Non, je ne regrette rien
+17. Johnny Hallyday — Que je t'aime
+18. Claude Francois — Comme d'habitude
+19. Michel Polnareff — Lettre a France
+20. Serge Gainsbourg — Je t'aime… moi non plus
+21. The Beach Boys — Good Vibrations
+22. The Kinks — You Really Got Me
+23. The Who — My Generation
+24. Creedence Clearwater Revival — Fortunate Son
+25. The Jackson 5 — I Want You Back
+26. Stevie Wonder — Superstition
+27. Elton John — Rocket Man
+28. Fleetwood Mac — Dreams
+29. The Eagles — Hotel California
+30. Donna Summer — I Feel Love
+31. The Clash — London Calling
+32. Sex Pistols — Anarchy in the U.K.
+33. Nino Ferrer — Le Sud
+34. Francoise Hardy — Tous les garcons et les filles
+35. France Gall — Poupee de cire, poupee de son
+36. Jacques Brel — Ne me quitte pas
+37. Georges Brassens — Les Copains d'abord
+38. Billie Holiday — Strange Fruit
+39. Elvis Presley — Suspicious Minds
+40. Frank Sinatra — My Way
+41. Otis Redding — (Sittin' On) The Dock of the Bay
+42. The Mamas & the Papas — California Dreamin'
+43. Buffalo Springfield — For What It's Worth
+44. Janis Joplin — Piece of My Heart
+45. Deep Purple — Smoke on the Water
+46. Black Sabbath — Paranoid
+47. AC/DC — Highway to Hell
+48. Bob Marley — No Woman, No Cry
+49. Boney M. — Daddy Cool
+50. Village People — Y.M.C.A.
+51. Earth, Wind & Fire — September
+52. Chic — Le Freak
+53. Ike & Tina Turner — Proud Mary
+54. The Temptations — My Girl
+55. Dusty Springfield — Son of a Preacher Man
+56. Nancy Sinatra — These Boots Are Made for Walkin'
+57. Dalida — Paroles... Paroles...
+58. Joe Dassin — L'Ete indien
+59. Renaud — Laisse beton
+60. Alain Souchon — Allo maman bobo
+61. Veronique Sanson — Besoin de personne
+62. Michel Berger — La Groupie du pianiste
+63. Bill Withers — Ain't No Sunshine
+64. Al Green — Let's Stay Together
+65. Roberta Flack — Killing Me Softly with His Song
+66. Gloria Gaynor — I Will Survive
+67. The Stooges — I Wanna Be Your Dog
+68. Ramones — Blitzkrieg Bop
+69. Patti Smith — Because the Night
+70. Blondie — Heart of Glass
+71. The Police — Roxanne
+72. Dire Straits — Sultans of Swing
+73. Lynyrd Skynyrd — Sweet Home Alabama
+74. Bruce Springsteen — Born to Run
+75. Neil Young — Heart of Gold
+76. Cat Stevens — Wild World
+77. Joni Mitchell — Big Yellow Taxi
+78. Charles Aznavour — La Boheme
+79. Barbara — L'Aigle noir
+80. Leo Ferre — Avec le temps
+81. Sly & The Family Stone — Everyday People
+82. Santana — Black Magic Woman
+83. Joy Division — Love Will Tear Us Apart
+84. The Cure — Boys Don't Cry
+85. T. Rex — Get It On
+86. Lou Reed — Walk on the Wild Side
+87. Iggy Pop — The Passenger
+88. The Velvet Underground — Sunday Morning
+89. Jefferson Airplane — White Rabbit
+90. The Animals — The House of the Rising Sun
+91. Procol Harum — A Whiter Shade of Pale
+92. James Brown — I Got You (I Feel Good)
+93. Rod Stewart — Maggie May
+94. Carly Simon — You're So Vain
+95. Harry Nilsson — Without You
+96. Kate Bush — Wuthering Heights
+97. Meat Loaf — Bat Out of Hell
+98. Boston — More Than a Feeling
+99. Kansas — Dust in the Wind
+100. Don McLean — American Pie
+
+100 CHANSONS DES ANNEES 80-90 (L'ERE MTV ET GRUNGE)
+
+01. Michael Jackson — Billie Jean
+02. Madonna — Like a Virgin
+03. Prince — When Doves Cry
+04. U2 — With or Without You
+05. Nirvana — Smells Like Teen Spirit
+06. Whitney Houston — I Will Always Love You
+07. R.E.M. — Losing My Religion
+08. Guns N' Roses — Sweet Child O' Mine
+09. Metallica — Enter Sandman
+10. George Michael — Careless Whisper
+11. Eurythmics — Sweet Dreams (Are Made of This)
+12. Cyndi Lauper — Girls Just Want to Have Fun
+13. Bon Jovi — Livin' on a Prayer
+14. The Smiths — There Is a Light That Never Goes Out
+15. Depeche Mode — Enjoy the Silence
+16. Daniel Balavoine — L'Aziza
+17. Jean-Jacques Goldman — Je te donne
+18. Mylene Farmer — Desenchantee
+19. Indochine — L'Aventurier
+20. Telephone — Ca (c'est vraiment toi)
+21. The Police — Every Breath You Take
+22. Phil Collins — In the Air Tonight
+23. Tears for Fears — Everybody Wants to Rule the World
+24. A-ha — Take on Me
+25. Journey — Don't Stop Believin'
+26. Survivor — Eye of the Tiger
+27. Toto — Africa
+28. Rick Astley — Never Gonna Give You Up
+29. Soft Cell — Tainted Love
+30. Simple Minds — Don't You (Forget About Me)
+31. Culture Club — Karma Chameleon
+32. Spandau Ballet — True
+33. Celine Dion — Pour que tu m'aimes encore
+34. IAM — Demain, c'est loin
+35. NTM — Laisse pas trainer ton fils
+36. MC Solaar — Caroline
+37. Oasis — Wonderwall
+38. Blur — Song 2
+39. The Verve — Bitter Sweet Symphony
+40. Radiohead — Creep
+41. Red Hot Chili Peppers — Under the Bridge
+42. Pearl Jam — Alive
+43. Soundgarden — Black Hole Sun
+44. No Doubt — Don't Speak
+45. The Cranberries — Zombie
+46. Alanis Morissette — Ironic
+47. Sinead O'Connor — Nothing Compares 2 U
+48. Spice Girls — Wannabe
+49. Backstreet Boys — I Want It That Way
+50. Britney Spears — ...Baby One More Time
+51. Mariah Carey — All I Want for Christmas Is You
+52. Lauryn Hill — Doo Wop (That Thing)
+53. TLC — No Scrubs
+54. Coolio — Gangsta's Paradise
+55. 2Pac — California Love
+56. The Notorious B.I.G. — Juicy
+57. Dr. Dre ft. Snoop Dogg — Still D.R.E.
+58. Eminem — My Name Is
+59. Daft Punk — Around the World
+60. The Prodigy — Firestarter
+61. Jamiroquai — Virtual Insanity
+62. Massive Attack — Teardrop
+63. Portishead — Glory Box
+64. Moby — Porcelain
+65. Roxette — It Must Have Been Love
+66. Bryan Adams — (Everything I Do) I Do It for You
+67. Vanessa Paradis — Joe le taxi
+68. Les Rita Mitsouko — Marcia Baila
+69. Niagara — L'amour a la plage
+70. Patricia Kaas — Mon mec a moi
+71. Francis Cabrel — Je l'aime a mourir
+72. Alain Bashung — Vertige de l'amour
+73. Zazie — Zen
+74. Louise Attaque — Je t'emmene au vent
+75. Manau — La Tribu de Dana
+76. Ricky Martin — Livin' la Vida Loca
+77. Cher — Believe
+78. Aqua — Barbie Girl
+79. Natalie Imbruglia — Torn
+80. Fool's Garden — Lemon Tree
+81. 4 Non Blondes — What's Up?
+82. Seal — Kiss from a Rose
+83. Lenny Kravitz — Are You Gonna Go My Way
+84. Beastie Boys — Sabotage
+85. Rage Against the Machine — Killing in the Name
+86. The Offspring — Self Esteem
+87. Green Day — Basket Case
+88. Foo Fighters — Everlong
+89. The Smashing Pumpkins — 1979
+90. Jeff Buckley — Hallelujah
+91. Tracy Chapman — Fast Car
+92. Bonnie Tyler — Total Eclipse of the Heart
+93. Tina Turner — What's Love Got to Do with It
+94. Lionel Richie — All Night Long
+95. Wham! — Wake Me Up Before You Go-Go
+96. New Order — Blue Monday
+97. Pet Shop Boys — West End Girls
+98. Talking Heads — Once in a Lifetime
+99. Run-D.M.C. — It's Tricky
+100. Public Enemy — Fight the Power
+
+100 CHANSONS DES ANNEES 2000-2010 (L'ERE DU NUMERIQUE)
+
+01. Beyonce — Crazy in Love
+02. Eminem — Lose Yourself
+03. Amy Winehouse — Back to Black
+04. Lady Gaga — Poker Face
+05. Rihanna — Umbrella
+06. Coldplay — Viva la Vida
+07. The White Stripes — Seven Nation Army
+08. Daft Punk — Get Lucky
+09. Pharrell Williams — Happy
+10. Adele — Rolling in the Deep
+11. Justin Timberlake — Cry Me a River
+12. Britney Spears — Toxic
+13. Shakira — Whenever, Wherever
+14. OutKast — Hey Ya!
+15. Jay-Z ft. Alicia Keys — Empire State of Mind
+16. Kanye West — Stronger
+17. Linkin Park — In the End
+18. The Killers — Mr. Brightside
+19. Arctic Monkeys — Do I Wanna Know?
+20. Radiohead — Everything in Its Right Place
+21. Gorillaz — Feel Good Inc.
+22. MGMT — Kids
+23. Foster the People — Pumped Up Kicks
+24. Gotye ft. Kimbra — Somebody That I Used to Know
+25. Sia — Chandelier
+26. Lorde — Royals
+27. Ed Sheeran — Shape of You
+28. Bruno Mars — Uptown Funk (ft. Mark Ronson)
+29. Taylor Swift — Shake It Off
+30. Katy Perry — Firework
+31. Diam's — La Boulette
+32. Booba — Numero 10
+33. Rohff — Qui est l'exemple ?
+34. Stromae — Alors on danse
+35. Stromae — Papaoutai
+36. Maitre Gims — Bella
+37. Indila — Derniere danse
+38. Christine and the Queens — Saint Claude
+39. PNL — Le monde ou rien
+40. Orelsan — La Terre est ronde
+41. Jul — Tchikita
+42. Niska — Reseaux
+43. Aya Nakamura — Djadja
+44. Angele — Tout oublier
+45. Justice — D.A.N.C.E.
+46. M83 — Midnight City
+47. Phoenix — 1901
+48. David Guetta ft. Kelly Rowland — When Love Takes Over
+49. Avicii — Wake Me Up
+50. Calvin Harris — Feel So Close
+51. Black Eyed Peas — I Gotta Feeling
+52. LMFAO — Party Rock Anthem
+53. Psy — Gangnam Style
+54. Luis Fonsi ft. Daddy Yankee — Despacito
+55. Camila Cabello — Havana
+56. Drake — Hotline Bling
+57. The Weeknd — Can't Feel My Face
+58. Kendrick Lamar — Humble
+59. Childish Gambino — This Is America
+60. Billie Eilish — Bad Guy
+61. Alicia Keys — If I Ain't Got You
+62. Norah Jones — Don't Know Why
+63. James Blunt — You're Beautiful
+64. Mika — Grace Kelly
+65. Lily Allen — Smile
+66. Florence + The Machine — Dog Days Are Over
+67. Mumford & Sons — Little Lion Man
+68. The Lumineers — Ho Hey
+69. Lana Del Rey — Video Games
+70. Frank Ocean — Thinkin Bout You
+71. P!nk — Get the Party Started
+72. Christina Aguilera — Beautiful
+73. Kelly Clarkson — Since U Been Gone
+74. Avril Lavigne — Complicated
+75. Evanescence — Bring Me to Life
+76. Green Day — American Idiot
+77. Fall Out Boy — Sugar, We're Goin Down
+78. Panic! At The Disco — I Write Sins Not Tragedies
+79. My Chemical Romance — Welcome to the Black Parade
+80. Muse — Supermassive Black Hole
+81. Maroon 5 — This Love
+82. John Legend — All of Me
+83. Miley Cyrus — Wrecking Ball
+84. Justin Bieber — Sorry
+85. One Direction — What Makes You Beautiful
+86. Imagine Dragons — Radioactive
+87. Twenty One Pilots — Stressed Out
+88. Hozier — Take Me to Church
+89. Sam Smith — Stay with Me
+90. Snoop Dogg ft. Pharrell — Drop It Like It's Hot
+91. 50 Cent — In Da Club
+92. Nelly — Hot in Herre
+93. Flo Rida — Low
+94. Kesha — TiK ToK
+95. Lady Antebellum — Need You Now
+96. Gnarls Barkley — Crazy
+97. Kings of Leon — Use Somebody
+98. Vanessa Carlton — A Thousand Miles
+99. The Fray — How to Save a Life
+100. Snow Patrol — Chasing Cars
+
+100 CHANSONS DES ANNEES 2020+ (LE SON D'AUJOURD'HUI)
+
+01. The Weeknd — Blinding Lights
+02. Dua Lipa — Levitating
+03. Olivia Rodrigo — Drivers License
+04. Harry Styles — As It Was
+05. Taylor Swift — Anti-Hero
+06. Miley Cyrus — Flowers
+07. SZA — Kill Bill
+08. Billie Eilish — Happier Than Ever
+09. Doja Cat — Say So
+10. Lil Nas X — Montero (Call Me By Your Name)
+11. Bad Bunny — Titi Me Pregunto
+12. Rosalia — Despecha
+13. Glass Animals — Heat Waves
+14. The Kid LAROI ft. Justin Bieber — Stay
+15. Sam Smith & Kim Petras — Unholy
+16. Ice Spice — Munch (Feelin' U)
+17. PinkPantheress — Boy's a Liar Pt. 2
+18. Steve Lacy — Bad Habit
+19. Tyla — Water
+20. Jack Harlow — Lovin On Me
+21. Orelsan — L'Odeur de l'essence
+22. Ninho — Jefe
+23. Gazo — Die
+24. SDM — Bolide Allemand
+25. Tiakola — Gasolina
+26. Ziak — Galerie
+27. Werenoi — Laboratoire
+28. Hamza — Make Up
+29. Damso — Morose
+30. SCH — Fade Up
+31. Clara Luciani — Le Reste
+32. Juliette Armanet — Le Dernier Jour du Disco
+33. Angele — Bruxelles je t'aime
+34. Stromae — L'Enfer
+35. Pomme — Les Failles
+36. Zaho de Sagazan — La Symphonie des eclairs
+37. Lomepal — Decrescendo
+38. Disiz — Rencontre
+39. Pierre de Maere — Un jour je marierai un ange
+40. Santa — Popcorn Sale
+41. NewJeans — Hype Boy
+42. BLACKPINK — Pink Venom
+43. BTS — Dynamite
+44. Jung Kook — Seven
+45. Fifty Fifty — Cupid
+46. Peso Pluma — Ella Baila Sola
+47. Karol G — Provenza
+48. Central Cee — Doja
+49. Dave ft. Central Cee — Sprinter
+50. Raye — Escapism.
+51. Fred again.. — Delilah (pull me out of this)
+52. Peggy Gou — (It Goes Like) Nanana
+53. Romy — Enjoy Your Life
+54. Troye Sivan — Rush
+55. Boygenius — Not Strong Enough
+56. Lana Del Rey — A&W
+57. Mitski — My Love Mine All Mine
+58. Hozier — Eat Your Young
+59. Noah Kahan — Stick Season
+60. Zach Bryan — I Remember Everything
+61. Luke Combs — Fast Car (Cover)
+62. Beyonce — Break My Soul
+63. Beyonce — Texas Hold 'Em
+64. Kendrick Lamar — Not Like Us
+65. Drake — First Person Shooter
+66. Travis Scott — FE!N
+67. Metro Boomin ft. Future — Like That
+68. Gunna — fukumean
+69. Tate McRae — greedy
+70. Sabrina Carpenter — Espresso
+71. Chappell Roan — Good Luck, Babe!
+72. Charli XCX — Von Dutch
+73. Billie Eilish — Lunch
+74. Ariana Grande — we can't be friends (wait for your love)
+75. Dua Lipa — Houdini
+76. Jain — The Fool
+77. Indochine — Nos Celebrations
+78. Mylene Farmer — A tout jamais
+79. Vianney ft. Ed Sheeran — Call on Me
+80. Louane — Secret
+81. Soso Maness — Petrouchka
+82. Jungeli — Petit Genie
+83. Heuss L'Enfoire ft. Jul — Moulaga
+84. PLK — Demain
+85. Dinos — Helsinki
+86. Rauw Alejandro — Todo de Ti
+87. Bizarrap & Shakira — Music Sessions, Vol. 53
+88. Ayra Starr — Rush
+89. Rema — Calm Down
+90. Burna Boy — Last Last
+91. Victoria Monet — On My Mama
+92. Coco Jones — ICU
+93. Renee Rapp — Snow Angel
+94. Beabadoobee — Glue Song
+95. Stephen Sanchez — Until I Found You
+96. JVKE — Golden Hour
+97. Laufey — From The Start
+98. Teddy Swims — Lose Control
+99. Benson Boone — Beautiful Things
+100. Artemas — i like the way you kiss me
